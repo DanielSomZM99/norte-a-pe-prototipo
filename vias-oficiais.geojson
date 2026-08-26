@@ -1,0 +1,885 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.11055648833984,-26.87528838631841],[-49.11114214749682,-26.875057910958]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3139,
+    "CODIGO": 848,
+    "DESCRICAO": "POMERODE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 63.5524482443438
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10909119763022,-26.87592060550806],[-49.1094941559284,-26.87584798968897]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 8492,
+    "CODIGO": 848,
+    "DESCRICAO": "POMERODE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 40.8412658659107
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.11118544885115,-26.87457876494214],[-49.11114214749682,-26.875057910958]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2881,
+    "CODIGO": 650,
+    "DESCRICAO": "HENRIQUE LUCAS SENIOR",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 53.2660321297729
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10821785524745,-26.87476377242783],[-49.10897736506332,-26.87494731987452],[-49.10944926395827,-26.87492262966396]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2659,
+    "CODIGO": 1723,
+    "DESCRICAO": "ENGENHEIRO UDO DEEKE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 125.134765078802
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10774040428341,-26.87553639659051],[-49.10720481789119,-26.87593566580667],[-49.1069739331407,-26.87619736105562]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2804,
+    "CODIGO": 635,
+    "DESCRICAO": "FREYMUND LUCAS",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 106.182803909803
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10541168209196,-26.87209955274671],[-49.1054300434428,-26.87293600049399],[-49.10477200322667,-26.87303478116366]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3645,
+    "CODIGO": 1918,
+    "DESCRICAO": "CARLOS GRASSMANN",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 159.000217227142
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.1094941559284,-26.87584798968897],[-49.10944926395827,-26.87492262966396]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2734,
+    "CODIGO": 2237,
+    "DESCRICAO": "ALEX VETTER",
+    "PAVIMENTAC": "Macadame",
+    "SHAPE.LEN": 102.631954804583
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10868643577854,-26.87586803127834],[-49.10909119763022,-26.87592060550806]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3955,
+    "CODIGO": 848,
+    "DESCRICAO": "POMERODE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 40.6397336532857
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10821785524745,-26.87476377242783],[-49.10822669361641,-26.87580704055141]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3170,
+    "CODIGO": 670,
+    "DESCRICAO": "MARANHAO",
+    "PAVIMENTAC": "Macadame",
+    "SHAPE.LEN": 115.603231690165
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10397568948445,-26.87682172509029],[-49.10398049215276,-26.87695092812447]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2801,
+    "CODIGO": 2839,
+    "DESCRICAO": "WALTER SCHWANTZ",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 14.3243957376917
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10700709885181,-26.87411686264278],[-49.10821785524745,-26.87476377242783]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2660,
+    "CODIGO": 1723,
+    "DESCRICAO": "ENGENHEIRO UDO DEEKE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 140.046210051754
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10284517318266,-26.87307581352233],[-49.10389582451324,-26.87322442957045],[-49.10491005546691,-26.87341455375398]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 8420,
+    "CODIGO": 1723,
+    "DESCRICAO": "ENGENHEIRO UDO DEEKE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 208.655771778244
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10822669361641,-26.87580704055141],[-49.10868643577854,-26.87586803127834]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3133,
+    "CODIGO": 848,
+    "DESCRICAO": "POMERODE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 46.1804772817475
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.1107949780991,-26.87272715098649],[-49.11085184693255,-26.87231728635832]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2709,
+    "CODIGO": 674,
+    "DESCRICAO": "MARINGA",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 45.765436072652
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10944926395827,-26.87492262966396],[-49.10931997657746,-26.87107398488632]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3081,
+    "CODIGO": 101,
+    "DESCRICAO": "BEETHOVEN",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 426.6443065628561
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.1039283898959,-26.87550102579237],[-49.10391027761043,-26.87553261404554],[-49.10397568948445,-26.87682172509029]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2700,
+    "CODIGO": 2839,
+    "DESCRICAO": "WALTER SCHWANTZ",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 146.924534452747
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10398049215276,-26.87695092812447],[-49.10399443696213,-26.87750416182118],[-49.10386209775665,-26.87751401724531]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3029,
+    "CODIGO": 2839,
+    "DESCRICAO": "WALTER SCHWANTZ",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 74.51243711518408
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10466669204578,-26.87274507582056],[-49.10449135925443,-26.87226274257284],[-49.10441471306719,-26.87042045025128]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 1637,
+    "CODIGO": 469,
+    "DESCRICAO": "PROFESSOR MAX HUMPL",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 260.491957180743
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10422497600471,-26.87378326783616],[-49.10468066390225,-26.87358626984852],[-49.10536404018535,-26.87361248505876]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3088,
+    "CODIGO": 848,
+    "DESCRICAO": "POMERODE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 118.236911024985
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10868643577854,-26.87586803127834],[-49.1087012942871,-26.87650187471285]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 7320,
+    "CODIGO": 2244,
+    "DESCRICAO": "CLAUDIO HELIO SACHSE",
+    "PAVIMENTAC": "Macadame",
+    "SHAPE.LEN": 70.24887911853111
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.11114214749682,-26.875057910958],[-49.11133221308492,-26.8750252149868],[-49.11203541120797,-26.87509930251959],[-49.11276357024137,-26.87486754909832]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3138,
+    "CODIGO": 848,
+    "DESCRICAO": "POMERODE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 166.363916982026
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.11095686751666,-26.87203832722114],[-49.11207518166101,-26.87205783297394]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3692,
+    "CODIGO": 426,
+    "DESCRICAO": "JOSE JOAO HAVEROTH",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 111.148347688348
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.11085184693255,-26.87231728635832],[-49.11095686751666,-26.87203832722114]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3193,
+    "CODIGO": 674,
+    "DESCRICAO": "MARINGA",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 32.6243338213978
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.1069739331407,-26.87619736105562],[-49.10714888906964,-26.87641883405968],[-49.10730677740975,-26.87675215453593]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2885,
+    "CODIGO": 2245,
+    "DESCRICAO": "INOMINADA 2245",
+    "PAVIMENTAC": "Macadame",
+    "SHAPE.LEN": 70.20218334331329
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.1069739331407,-26.87619736105562],[-49.10671487216858,-26.87668697644618],[-49.10650844952838,-26.87666512672495],[-49.1064621643443,-26.87670539965193],[-49.10618158721443,-26.87719917795255],[-49.10630350362641,-26.87753774411779]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2669,
+    "CODIGO": 635,
+    "DESCRICAO": "FREYMUND LUCAS",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 187.94153936217
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.11118544885115,-26.87457876494214],[-49.11248487081923,-26.87423864863039],[-49.11293621790988,-26.87411539418391],[-49.11302962593615,-26.8740898855188]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2661,
+    "CODIGO": 1723,
+    "DESCRICAO": "ENGENHEIRO UDO DEEKE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 191.094435283962
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10774040428341,-26.87553639659051],[-49.10792651557639,-26.8757530376267],[-49.10822669361641,-26.87580704055141]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3134,
+    "CODIGO": 848,
+    "DESCRICAO": "POMERODE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 60.7247728614354
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10491005546691,-26.87341455375398],[-49.10577626060336,-26.8736646603026],[-49.10625319164963,-26.87379408542236],[-49.10700709885181,-26.87411686264278]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3067,
+    "CODIGO": 1723,
+    "DESCRICAO": "ENGENHEIRO UDO DEEKE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 222.954842391984
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10491005546691,-26.87341455375398],[-49.10477200322667,-26.87303478116366]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2955,
+    "CODIGO": 469,
+    "DESCRICAO": "PROFESSOR MAX HUMPL",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 44.26055502600479
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10466669204578,-26.87274507582056],[-49.10500451266237,-26.87250601102469],[-49.10541168209196,-26.87209955274671]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3368,
+    "CODIGO": 1847,
+    "DESCRICAO": "JOHANNA SOMMER",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 103.305326193596
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.1094941559284,-26.87584798968897],[-49.11006853215046,-26.87559362467113],[-49.11055648833984,-26.87528838631841]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3135,
+    "CODIGO": 848,
+    "DESCRICAO": "POMERODE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 122.772074282032
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.11095686751666,-26.87203832722114],[-49.11100203634764,-26.87184703457484],[-49.11098420904279,-26.87162883670686],[-49.1109381289032,-26.87113049985512]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3027,
+    "CODIGO": 674,
+    "DESCRICAO": "MARINGA",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 101.316497842211
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.11075638634965,-26.87468199537293],[-49.11067390053383,-26.87433458558545],[-49.11064385273599,-26.87416569132142],[-49.11063333413976,-26.87397617513273],[-49.11064227775493,-26.87352636412139]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 4362,
+    "CODIGO": 948,
+    "DESCRICAO": "MARIA LARSEN",
+    "PAVIMENTAC": "Macadame",
+    "SHAPE.LEN": 129.18373742731
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.11085184693255,-26.87231728635832],[-49.10982897987448,-26.8723192402899]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3082,
+    "CODIGO": 1828,
+    "DESCRICAO": "BERTHA REPSOLD BLUMENAU",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 101.642759478529
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10425009761925,-26.87501085109433],[-49.10419123981575,-26.87504260209322],[-49.1039283898959,-26.87550102579237]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 6049,
+    "CODIGO": 2839,
+    "DESCRICAO": "WALTER SCHWANTZ",
+    "PAVIMENTAC": "Paralelepipedo",
+    "SHAPE.LEN": 63.9428808587523
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10700709885181,-26.87411686264278],[-49.1069653765306,-26.87132765711217],[-49.10713833098807,-26.87114331646282],[-49.10731304655488,-26.87098825909091]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 7326,
+    "CODIGO": 1068,
+    "DESCRICAO": "FRANCISCO TIEDT",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 360.207844506239
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10536404018535,-26.87361248505876],[-49.10549935790959,-26.87362961275164],[-49.10596890983412,-26.87376690244845],[-49.10629316453592,-26.87385874783694]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 4414,
+    "CODIGO": 848,
+    "DESCRICAO": "POMERODE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 96.44589852908651
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10422497600471,-26.87378326783616],[-49.10423923013622,-26.87447979972641]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3206,
+    "CODIGO": 2206,
+    "DESCRICAO": "OTTO ANLAUF JUNIOR",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 77.1927237297661
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.11075638634965,-26.87468199537293],[-49.11118544885115,-26.87457876494214]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 8419,
+    "CODIGO": 1723,
+    "DESCRICAO": "ENGENHEIRO UDO DEEKE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 44.1428998577348
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10536404018535,-26.87361248505876],[-49.10546217891879,-26.87534823094209],[-49.10561495890356,-26.87533572723567],[-49.10562032105577,-26.87537571039232]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3171,
+    "CODIGO": 1701,
+    "DESCRICAO": "AUGUST EWALD",
+    "PAVIMENTAC": "Macadame",
+    "SHAPE.LEN": 212.284359323909
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10425009761925,-26.87501085109433],[-49.10435224261457,-26.87684796350928]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2632,
+    "CODIGO": 2206,
+    "DESCRICAO": "OTTO ANLAUF JUNIOR",
+    "PAVIMENTAC": "Paralelepipedo",
+    "SHAPE.LEN": 203.815518196334
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10435224261457,-26.87684796350928],[-49.10413688641329,-26.87685291264274]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 1625,
+    "CODIGO": 2990,
+    "DESCRICAO": "LYDIA ANLAUF",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 21.4062257815337
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10264057369939,-26.8763971079473],[-49.10315206906475,-26.87582477576325],[-49.10376494155627,-26.87416789681672],[-49.1041098115475,-26.87384498989018],[-49.10422497600471,-26.87378326783616]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3087,
+    "CODIGO": 848,
+    "DESCRICAO": "POMERODE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 337.576183504579
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10541168209196,-26.87209955274671],[-49.10567087861849,-26.87187245529201]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 5761,
+    "CODIGO": 1847,
+    "DESCRICAO": "JOHANNA SOMMER",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 36.00847834968869
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10477200322667,-26.87303478116366],[-49.10466669204578,-26.87274507582056]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2956,
+    "CODIGO": 469,
+    "DESCRICAO": "PROFESSOR MAX HUMPL",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 33.7636737115498
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10423923013622,-26.87447979972641],[-49.10425009761925,-26.87501085109433]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3952,
+    "CODIGO": 2206,
+    "DESCRICAO": "OTTO ANLAUF JUNIOR",
+    "PAVIMENTAC": "Paralelepipedo",
+    "SHAPE.LEN": 58.853449386166
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.11055648833984,-26.87528838631841],[-49.11137552095165,-26.87606696090439]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3527,
+    "CODIGO": 124,
+    "DESCRICAO": "HENRIQUE BOEHRINGER",
+    "PAVIMENTAC": "Macadame",
+    "SHAPE.LEN": 118.600518646294
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10909119763022,-26.87592060550806],[-49.10908757050948,-26.87597858761339],[-49.10909477232625,-26.87624247732393]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3954,
+    "CODIGO": 3975,
+    "DESCRICAO": "INOMINADA 3975",
+    "PAVIMENTAC": "Macadame",
+    "SHAPE.LEN": 35.68402938066001
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.1107949780991,-26.87272715098649],[-49.11239694365004,-26.8727542125683]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3646,
+    "CODIGO": 1827,
+    "DESCRICAO": "GUILHERME LARSEN",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 159.215231046562
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.11118544885115,-26.87457876494214],[-49.11127352632203,-26.87444856775305],[-49.11121855681353,-26.87321750589073],[-49.11116995099443,-26.87313031279114],[-49.11084887475844,-26.87287280307439],[-49.1107949780991,-26.87272715098649]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2710,
+    "CODIGO": 674,
+    "DESCRICAO": "MARINGA",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 224.000379661706
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10944926395827,-26.87492262966396],[-49.10975194520456,-26.87490679293515],[-49.11075638634965,-26.87468199537293]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3141,
+    "CODIGO": 1723,
+    "DESCRICAO": "ENGENHEIRO UDO DEEKE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 132.998562705516
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10629316453592,-26.87385874783694],[-49.10645085415709,-26.87409862757262],[-49.10721767877378,-26.87477933520922],[-49.10750051467209,-26.87512814424411],[-49.10774040428341,-26.87553639659051]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 8493,
+    "CODIGO": 848,
+    "DESCRICAO": "POMERODE",
+    "PAVIMENTAC": "Asfalto",
+    "SHAPE.LEN": 236.992025322478
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10435224261457,-26.87684796350928],[-49.10442751082795,-26.8774911400191]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 8243,
+    "CODIGO": 2206,
+    "DESCRICAO": "OTTO ANLAUF JUNIOR",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 71.65903938157419
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10413688641329,-26.87685291264274],[-49.10398049215276,-26.87695092812447]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 2882,
+    "CODIGO": 2990,
+    "DESCRICAO": "LYDIA ANLAUF",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 18.959349018624
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "LineString",
+     "coordinates": [
+      [[-49.10413688641329,-26.87685291264274],[-49.10397568948445,-26.87682172509029]]
+     ]
+    },
+    "properties": {
+    "OBJECTID": 3533,
+    "CODIGO": 2990,
+    "DESCRICAO": "LYDIA ANLAUF",
+    "PAVIMENTAC": "Lajota",
+    "SHAPE.LEN": 16.3861308044334
+    }
+  }
+ ]
+}
